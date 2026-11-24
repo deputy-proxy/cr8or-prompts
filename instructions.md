@@ -45,33 +45,33 @@ Commands are project-independent. Use the current project's context unless the c
 
 | Command | Description | Prompt file |
 |---|---|---|
-|`>dev-next-issue` | Find and implement the next appropriate open repository issue. | [prompts/development/next-issue.md](./prompts/development/next-issue.md) |
-|`>dev-implement-issue` | Implement a specified issue with tests and a clear completion report. | [prompts/development/implement-issue.md](./prompts/development/implement-issue.md) |
-|`>dev-review-pr` | Review a pull request for correctness, security, maintainability, and test coverage. | [prompts/development/review-pr.md](./prompts/development/review-pr.md) |
+| `>dev-next-issue` | Find and implement the next appropriate open repository issue. | [prompts/development/next-issue.md](./prompts/development/next-issue.md) |
+| `>dev-implement-issue` | Implement a specified issue with tests and a clear completion report. | [prompts/development/implement-issue.md](./prompts/development/implement-issue.md) |
+| `>dev-review-pr` | Review a pull request for correctness, security, maintainability, and test coverage. | [prompts/development/review-pr.md](./prompts/development/review-pr.md) |
 
 ### Audits
 
 | Command | Description | Prompt file |
 |---|---|---|
-|`>audit-infrastructure` | Audit the current repository's application and delivery infrastructure. | [prompts/audits/infrastructure.md](./prompts/audits/infrastructure.md) |
+| `>audit-infrastructure` | Audit the current repository's application and delivery infrastructure. | [prompts/audits/infrastructure.md](./prompts/audits/infrastructure.md) |
 
 ### Reporting
 
 | Command | Description | Prompt file |
 |---|---|---|
-|`>report-business` | Prepare an evidence-based business report using available project information. | [prompts/reporting/business-report.md](./prompts/reporting/business-report.md) |
+| `>report-business` | Prepare an evidence-based business report using available project information. | [prompts/reporting/business-report.md](./prompts/reporting/business-report.md) |
 
 ### Research
 
 | Command | Description | Prompt file |
 |---|---|---|
-|`>research-market` | Research a market, category, competitor set, or opportunity. | [prompts/research/market-research.md](./prompts/research/market-research.md) |
+| `>research-market` | Research a market, category, competitor set, or opportunity. | [prompts/research/market-research.md](./prompts/research/market-research.md) |
 
 ### Deployment
 
 | Command | Description | Prompt file |
 |---|---|---|
-|`>deploy-production` | Prepare and execute an authorized production deployment with verification. | [prompts/deployment/production-deploy.md](./prompts/deployment/production-deploy.md) |
+| `>deploy-production` | Prepare and execute an authorized production deployment with verification. | [prompts/deployment/production-deploy.md](./prompts/deployment/production-deploy.md) |
 
 ## Registry maintenance rules
 
