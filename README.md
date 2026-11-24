@@ -10,7 +10,7 @@ A centralized, version-controlled prompt registry for reusable workflows across 
 
 1. Keep reusable prompts in this repository.
 2. Add the bootstrap instructions from instructions.md to each ChatGPT Project's Project Instructions.
-3. Invoke a registered command in a project chat, for example *dev-next-issue.
+3. Invoke a registered command in a project chat, for example>dev-next-issue.
 4. The assistant reads the latest registry from main, retrieves the referenced prompt file, and executes it.
 
 The registry is the source of truth. Project Instructions should contain only the bootstrap rules, not copies of individual prompts.
