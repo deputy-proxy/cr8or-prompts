@@ -41,6 +41,13 @@ Commands are project-independent. Use the current project's context unless the c
 
 ## Registered commands
 
+### Knowledge Capture
+
+| Command | Description | Prompt file |
+|---|---|---|
+| `>document-conversation` | Capture durable knowledge from the current conversation in CR8OR using governed Knowledge MCP operations. | [prompts/knowledge/conversation-capture.md](./prompts/knowledge/conversation-capture.md) |
+
+
 ### Development
 
 | Command | Description | Prompt file |
