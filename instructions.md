@@ -67,6 +67,12 @@ Commands are project-independent. Use the current project's context unless the c
 |---|---|---|
 | `>research-market` | Research a market, category, competitor set, or opportunity. | [prompts/research/market-research.md](./prompts/research/market-research.md) |
 
+### Strategy and Feasibility
+
+| Command | Description | Prompt file |
+|---|---|---|
+| `>rate-idea` | Evaluate an idea's market fit, development plan, financial scenarios, marketing requirements, profitability, risks, and go/no-go viability. | [prompts/strategy/rate-idea.md](./prompts/strategy/rate-idea.md) |
+
 ### Deployment
 
 | Command | Description | Prompt file |
